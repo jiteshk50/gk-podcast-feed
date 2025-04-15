@@ -2,20 +2,28 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>GK Insight: Assam & India</title>
-    <link>https://yourwebsite.com</link>
+    <title>GK Insight: Assam &amp; India</title>
+    <link>https://jiteshk50.github.io/gk-podcast-feed</link>
     <description>Podcast series exploring Assam, India, and general knowledge topics through MCQs.</description>
     <language>en-us</language>
     <itunes:author>Jitesh</itunes:author>
     <itunes:category text="Education"/>
-    
+
     <item>
-      <title>Set 1 – Episode 1</title>
-      <description>Test your knowledge with this engaging quiz on Assam and India.</description>
-      <enclosure url="https://drive.google.com/uc?export=download&id=1UI0k2SDMpqwK24TOaDAlm6GO4GEw-ML_" length="12345678" type="audio/wav"/>
-      <guid>https://drive.google.com/uc?export=download&id=1UI0k2SDMpqwK24TOaDAlm6GO4GEw-ML_</guid>
+      <title>Set 1 – Episode 1: Assam &amp; India Quiz</title>
+      <description>Test your knowledge with this engaging quiz on Assam &amp; India.</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UI0k2SDMpqwK24TOaDAlm6GO4GEw-ML_" length="12345678" type="audio/wav"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1UI0k2SDMpqwK24TOaDAlm6GO4GEw-ML_</guid>
       <pubDate>Mon, 14 Apr 2025 10:00:00 GMT</pubDate>
     </item>
-    
+
+    <item>
+      <title>Set 1 – Episode 2: Assam &amp; India Quiz</title>
+      <description>Dive deeper into Assam &amp; India general knowledge with Episode 2 of the series.</description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tj2lW0XM7fup46u-Hxhnuyizm6G5Y1LH" length="12345678" type="audio/wav"/>
+      <guid>https://drive.google.com/uc?export=download&amp;id=1tj2lW0XM7fup46u-Hxhnuyizm6G5Y1LH</guid>
+      <pubDate>Tue, 15 Apr 2025 10:00:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
