@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>GK Insight: Assam & India</title>
+    <link>https://yourwebsite.com</link>
+    <description>Podcast series exploring Assam, India, and general knowledge topics through MCQs.</description>
+    <language>en-us</language>
+    <itunes:author>Jitesh</itunes:author>
+    <itunes:category text="Education"/>
+    
+    <item>
+      <title>Set 1 – Episode 1</title>
+      <description>Test your knowledge with this engaging quiz on Assam and India.</description>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1UI0k2SDMpqwK24TOaDAlm6GO4GEw-ML_" length="12345678" type="audio/wav"/>
+      <guid>https://drive.google.com/uc?export=download&id=1UI0k2SDMpqwK24TOaDAlm6GO4GEw-ML_</guid>
+      <pubDate>Mon, 14 Apr 2025 10:00:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
